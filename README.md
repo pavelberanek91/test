@@ -4,7 +4,7 @@
 Tohle je nejlepší projekt na světě.
 
 ## Jak přispět
-Dejte mi prachy.
+Dejte mi cokoladu.
 
 ## Kontakt
 nedám
