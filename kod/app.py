@@ -6,6 +6,8 @@ def main():
     vypis_pozdrav(pozdrav="ahoj")
 
 
+def lek(): return "baf"
+
 if __name__ == "__main__":
     main()
 
