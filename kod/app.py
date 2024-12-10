@@ -1,3 +1,6 @@
+def baf(): return "lek"
+
+
 def vypis_pozdrav(pozdrav: str) -> None:
     print(pozdrav)
 
